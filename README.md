@@ -1,0 +1,2 @@
+# slice-cards
+Slice — India consumer neobank and Gen-Z credit-card alternative; merged with North East Small Finance Bank (NESFB) in October 2024, rebranded as Slice Small Finance Bank in May 2025. Operates a consumer mobile app (savings, fixed deposits, UPI, credit card) and a Merchant API at developer.slicebank.com (api.nebank.com) covering bank-account validation, payouts, pay-in/collect, refunds, virtual accounts, balance and transactions.
