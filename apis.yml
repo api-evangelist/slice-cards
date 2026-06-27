@@ -77,7 +77,7 @@ common:
     url: https://slice.bank.in/contact-us
   - type: Help
     url: https://help.slice.bank.in
-  - type: CustomerService
+  - type: Support
     url: https://slice.bank.in/customer-service
   - type: Safety
     url: https://slice.bank.in/safety
