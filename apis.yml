@@ -49,6 +49,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/slice-cards-domain-security.yml
   - type: Website
     url: https://slice.bank.in
   - type: LegacyBrand
