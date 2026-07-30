@@ -23,9 +23,20 @@ description: >-
   company had raised approximately $387M from investors including Tiger
   Global, Insight Partners and Blume Ventures.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Provider
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/slice-cards.png
 tags:
   - Banking
   - Neobank
