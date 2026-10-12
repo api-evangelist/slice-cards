@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/slice-cards/integrations
+- https://zapier.com/apps/slice/integrations
+- https://n8n.io/integrations/slice-cards/
+- https://composio.dev/toolkits/slice-cards
+- https://monid.ai/tools/slice-cards
+checked:
+- https://composio.dev/toolkits/slice-cards
+- https://monid.ai/tools/slice-cards
+- https://n8n.io/integrations/slice-cards/
+- https://zapier.com/apps/slice-cards/integrations
+- https://zapier.com/apps/slice/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
