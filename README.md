@@ -1,4 +1,4 @@
-# slice-cards
+# Slice
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Slice — India consumer neobank and Gen-Z credit-card alternative; merged with North East Small Finance Bank (NESFB) in October 2024, rebranded as Slice Small Finance Bank in May 2025. Operates a consumer mobile app (savings, fixed deposits, UPI, credit card) and a Merchant API at developer.slicebank.com (api.nebank.com) covering bank-account validation, payouts, pay-in/collect, refunds, virtual accounts, balance and transactions.
+Slice is an Indian consumer fintech and small finance bank, founded in 2016 as SlicePay by Rajan Bajaj and headquartered between Bengaluru (corporate) and Guwahati (registered). The company originally built a buy-now-pay-later product and a prepaid-card-plus-credit-line offering aimed at students and young professionals — pitched as a credit-card alternative for India's Gen Z — and at its peak was reportedly issuing over 300,000 prepaid cards per month before RBI's 2022 restrictions on credit-linked PPI products forced a pivot. In October 2023 Slice announced a merger with the regulated North East Small Finance Bank (NESFB), the first fintech-into-bank merger in India; the merger received RBI approval in October 2023, CCI approval in March 2024 and NCLT (Guwahati) approval in August 2024, completed on October 27, 2024, and the combined entity was rebranded as Slice Small Finance Bank in May 2025. Today Slice operates a consumer mobile-first neobank — savings accounts, fixed deposits, UPI, a Slice credit card and rewards — alongside a merchant-facing payments stack exposed through a Merchant API (api.nebank.com) covering bank-account validation, payouts, pay-in/collect, refunds, virtual accounts, balance, transactions and webhook notifications. As of late 2024 the company had raised approximately $387M from investors including Tiger Global, Insight Partners and Blume Ventures.
+
+**Areas:** Banking · Neobank · Small Finance Bank · Consumer Finance · Credit Cards · Prepaid Cards · Buy Now Pay Later · UPI · Payments · Payouts · Merchant API · Savings Accounts
+
+## Slice on APIs.io
+
+Everything profiled for Slice is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/slice-cards/](https://apis.io/providers/slice-cards/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Slice Cards Domain Security](https://apis.io/security/slice-cards/slice-cards-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://slice.bank.in)
+- [Support](https://slice.bank.in/customer-service)
+- [Terms of service](https://slice.bank.in/terms-of-services)
+- [Privacy policy](https://slice.bank.in/privacy)
+
+## API Evangelist rating
+
+**Kin Score 9.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.0** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/slice-cards/](https://apis.io/providers/slice-cards/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Slice: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/slice-cards/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
